@@ -12,7 +12,7 @@
 
 ## Running your tests
 - To run parallel tests, run `npm run test`
-- To run local test, run `npm run local`
+- To run local test, run `yarn run local`
 
  Understand how many parallel sessions you need by using our [Parallel Test Calculator](https://www.browserstack.com/automate/parallel-calculator?ref=github)
 
